@@ -1,0 +1,15 @@
+<Device Model="CP3">
+   <Network Type="Cresnet" Id="01">
+      <Device Model="GLS-PART-CN" DeviceId="91" Name="Birmingham&GrandRapids"/>
+      <Device Model="GLS-PART-CN" DeviceId="92" Name="GrandRapids&Detroit"/>
+      <Device Model="GLS-PART-CN" DeviceId="93" Name="GrandRapids&AnnArbor"/>
+      <Device Model="GLS-PART-CN" DeviceId="94" Name="AnnArbor&Detroit"/>
+      <Device Model="GLS-PART-CN" DeviceId="95" Name="AnnArbor&Lansing"/>
+      <Device Model="GLS-PART-CN" DeviceId="96" Name="Saginaw&Petoskey"/>
+      <Device Model="GLS-PART-CN" DeviceId="97" Name="Petoskey&Dearborn"/>
+   </Network>
+   <Network Type="Ethernet" Id="02">
+      <Device Model="DM-MD8x8" DeviceId="0A"/>
+      <Device Model="iPhone" DeviceId="A1" Name="iPad"/>
+   </Network>
+</Device>

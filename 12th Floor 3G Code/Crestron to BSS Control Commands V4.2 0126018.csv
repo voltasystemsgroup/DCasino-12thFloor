@@ -1,0 +1,402 @@
+Disco Messages
+Device Address,Device Name,Disco
+
+Parameters
+Device Path,Device Name,Node Addr (hex),Node Addr (dec),Object Addr (hex),Object Addr (dec),Parameter Path,Parameter,Command Type,Value,Command
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="02000009",9,Logic [0x2] : Patio Partition [0.0.9],Logic Source [0x1],Set,On,\x02\x88\x00\x01\x1B\x82\x00\x00\x09\x00\x01\x00\x00\x00\x01\x82\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="02000009",9,Logic [0x2] : Patio Partition [0.0.9],Logic Source [0x1],Set,Off,\x02\x88\x00\x01\x1B\x82\x00\x00\x09\x00\x01\x00\x00\x00\x00\x83\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0200000A",10,Logic [0x2] : Birmingham Partition [0.0.A],Logic Source [0x1],Set,On,\x02\x88\x00\x01\x1B\x82\x00\x00\x0A\x00\x01\x00\x00\x00\x01\x81\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0200000A",10,Logic [0x2] : Birmingham Partition [0.0.A],Logic Source [0x1],Set,Off,\x02\x88\x00\x01\x1B\x82\x00\x00\x0A\x00\x01\x00\x00\x00\x00\x80\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0200000D",13,Logic [0x2] : Grand Rapids Partition [0.0.D],Logic Source [0x1],Set,On,\x02\x88\x00\x01\x1B\x82\x00\x00\x0D\x00\x01\x00\x00\x00\x01\x86\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0200000D",13,Logic [0x2] : Grand Rapids Partition [0.0.D],Logic Source [0x1],Set,Off,\x02\x88\x00\x01\x1B\x82\x00\x00\x0D\x00\x01\x00\x00\x00\x00\x87\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="02000010",16,Logic [0x2] : Grand Rapids Detroit Partition [0.0.10],Logic Source [0x1],Set,On,\x02\x88\x00\x01\x1B\x82\x00\x00\x10\x00\x01\x00\x00\x00\x01\x9B\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="02000010",16,Logic [0x2] : Grand Rapids Detroit Partition [0.0.10],Logic Source [0x1],Set,Off,\x02\x88\x00\x01\x1B\x82\x00\x00\x10\x00\x01\x00\x00\x00\x00\x9A\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="02000016",22,Logic [0x2] : Ann Arbor Detroit Partition [0.0.16],Logic Source [0x1],Set,On,\x02\x88\x00\x01\x1B\x82\x00\x00\x16\x00\x01\x00\x00\x00\x01\x9D\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="02000016",22,Logic [0x2] : Ann Arbor Detroit Partition [0.0.16],Logic Source [0x1],Set,Off,\x02\x88\x00\x01\x1B\x82\x00\x00\x16\x00\x01\x00\x00\x00\x00\x9C\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0200001C",28,Logic [0x2] : Saginaw Partition [0.0.1C],Logic Source [0x1],Set,On,\x02\x88\x00\x01\x1B\x82\x00\x00\x1C\x00\x01\x00\x00\x00\x01\x97\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0200001C",28,Logic [0x2] : Saginaw Partition [0.0.1C],Logic Source [0x1],Set,Off,\x02\x88\x00\x01\x1B\x82\x00\x00\x1C\x00\x01\x00\x00\x00\x00\x96\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0200001D",29,Logic [0x2] : Dearborn Partition [0.0.1D],Logic Source [0x1],Set,On,\x02\x88\x00\x01\x1B\x82\x00\x00\x1D\x00\x01\x00\x00\x00\x01\x96\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0200001D",29,Logic [0x2] : Dearborn Partition [0.0.1D],Logic Source [0x1],Set,Off,\x02\x88\x00\x01\x1B\x82\x00\x00\x1D\x00\x01\x00\x00\x00\x00\x97\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0200001E",30,Logic [0x2] : Ann Arbor Partition [0.0.1E],Logic Source [0x1],Set,On,\x02\x88\x00\x01\x1B\x82\x00\x00\x1E\x00\x01\x00\x00\x00\x01\x95\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0200001E",30,Logic [0x2] : Ann Arbor Partition [0.0.1E],Logic Source [0x1],Set,Off,\x02\x88\x00\x01\x1B\x82\x00\x00\x1E\x00\x01\x00\x00\x00\x00\x94\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000100",256,Audio [0x3] : Birmingham Source Selector [0.1.0],Input Number [0x0],Set,1,\x02\x88\x00\x01\x1B\x83\x00\x01\x00\x00\x00\x00\x00\x00\x01\x8A\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000100",256,Audio [0x3] : Birmingham Source Selector [0.1.0],Input Number [0x0],Set,2,\x02\x88\x00\x01\x1B\x83\x00\x01\x00\x00\x00\x00\x00\x00\x1B\x82\x89\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000100",256,Audio [0x3] : Birmingham Source Selector [0.1.0],Input Number [0x0],Set,3,\x02\x88\x00\x01\x1B\x83\x00\x01\x00\x00\x00\x00\x00\x00\x1B\x83\x88\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000100",256,Audio [0x3] : Birmingham Source Selector [0.1.0],Input Number [0x0],Set,4,\x02\x88\x00\x01\x1B\x83\x00\x01\x00\x00\x00\x00\x00\x00\x04\x8F\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000102",258,Audio [0x3] : Grand Rapids Source Selector [0.1.2],Input Number [0x0],Set,1,\x02\x88\x00\x01\x1B\x83\x00\x01\x1B\x82\x00\x00\x00\x00\x00\x01\x88\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000102",258,Audio [0x3] : Grand Rapids Source Selector [0.1.2],Input Number [0x0],Set,2,\x02\x88\x00\x01\x1B\x83\x00\x01\x1B\x82\x00\x00\x00\x00\x00\x1B\x82\x8B\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000102",258,Audio [0x3] : Grand Rapids Source Selector [0.1.2],Input Number [0x0],Set,3,\x02\x88\x00\x01\x1B\x83\x00\x01\x1B\x82\x00\x00\x00\x00\x00\x1B\x83\x8A\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000102",258,Audio [0x3] : Grand Rapids Source Selector [0.1.2],Input Number [0x0],Set,4,\x02\x88\x00\x01\x1B\x83\x00\x01\x1B\x82\x00\x00\x00\x00\x00\x04\x8D\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000103",259,Audio [0x3] : Ann Arbor Source Selector [0.1.3],Input Number [0x0],Set,1,\x02\x88\x00\x01\x1B\x83\x00\x01\x1B\x83\x00\x00\x00\x00\x00\x01\x89\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000103",259,Audio [0x3] : Ann Arbor Source Selector [0.1.3],Input Number [0x0],Set,2,\x02\x88\x00\x01\x1B\x83\x00\x01\x1B\x83\x00\x00\x00\x00\x00\x1B\x82\x8A\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000103",259,Audio [0x3] : Ann Arbor Source Selector [0.1.3],Input Number [0x0],Set,3,\x02\x88\x00\x01\x1B\x83\x00\x01\x1B\x83\x00\x00\x00\x00\x00\x1B\x83\x8B\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000103",259,Audio [0x3] : Ann Arbor Source Selector [0.1.3],Input Number [0x0],Set,4,\x02\x88\x00\x01\x1B\x83\x00\x01\x1B\x83\x00\x00\x00\x00\x00\x04\x8C\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300010F",271,Audio [0x3] : AutoMixer [0.1.F] : Channel 1,Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\x0F\x00\x00\x00\x05\x00\x00\x99\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300010F",271,Audio [0x3] : AutoMixer [0.1.F] : Channel 1,Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\x0F\x00\x01\x00\x00\x00\x00\x85\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300010F",271,Audio [0x3] : AutoMixer [0.1.F] : Channel 1,Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\x0F\x00\x01\x00\x00\x00\x01\x84\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300010F",271,Audio [0x3] : AutoMixer [0.1.F] : Channel 2,Gain [0x64],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\x0F\x00\x64\x00\x05\x00\x00\xFD\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300010F",271,Audio [0x3] : AutoMixer [0.1.F] : Channel 2,Mute [0x65],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\x0F\x00\x65\x00\x00\x00\x00\xE1\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300010F",271,Audio [0x3] : AutoMixer [0.1.F] : Channel 2,Mute [0x65],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\x0F\x00\x65\x00\x00\x00\x01\xE0\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300010F",271,Audio [0x3] : AutoMixer [0.1.F] : Channel 3,Gain [0xC8],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\x0F\x00\xC8\x00\x05\x00\x00\x51\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300010F",271,Audio [0x3] : AutoMixer [0.1.F] : Channel 3,Mute [0xC9],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\x0F\x00\xC9\x00\x00\x00\x00\x4D\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300010F",271,Audio [0x3] : AutoMixer [0.1.F] : Channel 3,Mute [0xC9],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\x0F\x00\xC9\x00\x00\x00\x01\x4C\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300010F",271,Audio [0x3] : AutoMixer [0.1.F] : Channel 4,Gain [0x12C],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\x0F\x01\x2C\x00\x05\x00\x00\xB4\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300010F",271,Audio [0x3] : AutoMixer [0.1.F] : Channel 4,Mute [0x12D],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\x0F\x01\x2D\x00\x00\x00\x00\xA8\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300010F",271,Audio [0x3] : AutoMixer [0.1.F] : Channel 4,Mute [0x12D],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\x0F\x01\x2D\x00\x00\x00\x01\xA9\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300010F",271,Audio [0x3] : AutoMixer [0.1.F] : Channel 5,Gain [0x190],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\x0F\x01\x90\x00\x05\x00\x00\x08\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300010F",271,Audio [0x3] : AutoMixer [0.1.F] : Channel 5,Mute [0x191],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\x0F\x01\x91\x00\x00\x00\x00\x14\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300010F",271,Audio [0x3] : AutoMixer [0.1.F] : Channel 5,Mute [0x191],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\x0F\x01\x91\x00\x00\x00\x01\x1B\x95\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300010F",271,Audio [0x3] : AutoMixer [0.1.F] : Channel 6,Gain [0x1F4],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\x0F\x01\xF4\x00\x05\x00\x00\x6C\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300010F",271,Audio [0x3] : AutoMixer [0.1.F] : Channel 6,Mute [0x1F5],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\x0F\x01\xF5\x00\x00\x00\x00\x70\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300010F",271,Audio [0x3] : AutoMixer [0.1.F] : Channel 6,Mute [0x1F5],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\x0F\x01\xF5\x00\x00\x00\x01\x71\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300010F",271,Audio [0x3] : AutoMixer [0.1.F] : Channel 7,Gain [0x258],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\x0F\x1B\x82\x58\x00\x05\x00\x00\xC3\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300010F",271,Audio [0x3] : AutoMixer [0.1.F] : Channel 7,Mute [0x259],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\x0F\x1B\x82\x59\x00\x00\x00\x00\xDF\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300010F",271,Audio [0x3] : AutoMixer [0.1.F] : Channel 7,Mute [0x259],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\x0F\x1B\x82\x59\x00\x00\x00\x01\xDE\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300010F",271,Audio [0x3] : AutoMixer [0.1.F] : Channel 8,Gain [0x2BC],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\x0F\x1B\x82\xBC\x00\x05\x00\x00\x27\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300010F",271,Audio [0x3] : AutoMixer [0.1.F] : Channel 8,Mute [0x2BD],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\x0F\x1B\x82\xBD\x00\x00\x00\x00\x3B\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300010F",271,Audio [0x3] : AutoMixer [0.1.F] : Channel 8,Mute [0x2BD],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\x0F\x1B\x82\xBD\x00\x00\x00\x01\x3A\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300010F",271,Audio [0x3] : AutoMixer [0.1.F] : Channel 9,Gain [0x320],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\x0F\x1B\x83\x20\x00\x05\x00\x00\xBA\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300010F",271,Audio [0x3] : AutoMixer [0.1.F] : Channel 9,Mute [0x321],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\x0F\x1B\x83\x21\x00\x00\x00\x01\xA7\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300010F",271,Audio [0x3] : AutoMixer [0.1.F] : Channel 9,Mute [0x321],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\x0F\x1B\x83\x21\x00\x00\x00\x00\xA6\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300010F",271,Audio [0x3] : AutoMixer [0.1.F] : Channel 10,Gain [0x384],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\x0F\x1B\x83\x84\x00\x05\x00\x00\x1E\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300010F",271,Audio [0x3] : AutoMixer [0.1.F] : Channel 10,Mute [0x385],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\x0F\x1B\x83\x85\x00\x00\x00\x01\x1B\x83\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300010F",271,Audio [0x3] : AutoMixer [0.1.F] : Channel 10,Mute [0x385],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\x0F\x1B\x83\x85\x00\x00\x00\x00\x1B\x82\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300010F",271,Audio [0x3] : AutoMixer [0.1.F] : Channel 11,Gain [0x3E8],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\x0F\x1B\x83\xE8\x00\x05\x00\x00\x72\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300010F",271,Audio [0x3] : AutoMixer [0.1.F] : Channel 11,Mute [0x3E9],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\x0F\x1B\x83\xE9\x00\x00\x00\x00\x6E\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300010F",271,Audio [0x3] : AutoMixer [0.1.F] : Channel 11,Mute [0x3E9],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\x0F\x1B\x83\xE9\x00\x00\x00\x00\x6E\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300010F",271,Audio [0x3] : AutoMixer [0.1.F] : Channel 12,Gain [0x44C],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\x0F\x04\x4C\x00\x05\x00\x00\xD1\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300010F",271,Audio [0x3] : AutoMixer [0.1.F] : Channel 12,Mute [0x44D],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\x0F\x04\x4D\x00\x00\x00\x01\xCC\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300010F",271,Audio [0x3] : AutoMixer [0.1.F] : Channel 12,Mute [0x44D],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\x0F\x04\x4D\x00\x00\x00\x00\xCD\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300010F",271,Audio [0x3] : AutoMixer [0.1.F],Main Gain [0x4E20],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\x0F\x4E\x20\x00\x05\x00\x00\xF7\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300010F",271,Audio [0x3] : AutoMixer [0.1.F],Main Mute [0x4E21],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\x0F\x4E\x21\x00\x00\x00\x01\xEA\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300010F",271,Audio [0x3] : AutoMixer [0.1.F],Main Mute [0x4E21],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\x0F\x4E\x21\x00\x00\x00\x00\xEB\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000112",274,Audio [0x3] : Mic Source Select [0.1.12],Input Number [0x0],Set,1,\x02\x88\x00\x01\x1B\x83\x00\x01\x12\x00\x00\x00\x00\x00\x01\x98\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000112",274,Audio [0x3] : Mic Source Select [0.1.12],Input Number [0x0],Set,2,\x02\x88\x00\x01\x1B\x83\x00\x01\x12\x00\x00\x00\x00\x00\x1B\x82\x9B\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300012C",300,Audio [0x3] : Line Source Select [0.1.2C],Input Number [0x0],Set,1,\x02\x88\x00\x01\x1B\x83\x00\x01\x2C\x00\x00\x00\x00\x00\x01\xA6\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300012C",300,Audio [0x3] : Line Source Select [0.1.2C],Input Number [0x0],Set,2,\x02\x88\x00\x01\x1B\x83\x00\x01\x2C\x00\x00\x00\x00\x00\x1B\x82\xA5\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300012C",300,Audio [0x3] : Line Source Select [0.1.2C],Input Number [0x0],Set,3,\x02\x88\x00\x01\x1B\x83\x00\x01\x2C\x00\x00\x00\x00\x00\x1B\x83\xA4\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000130",304,Audio [0x3] : Detroit Wall Source Gain [0.1.30],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\x30\x00\x00\x00\x05\x00\x00\xA6\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000130",304,Audio [0x3] : Detroit Wall Source Gain [0.1.30],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\x30\x00\x01\x00\x00\x00\x00\xBA\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000130",304,Audio [0x3] : Detroit Wall Source Gain [0.1.30],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\x30\x00\x01\x00\x00\x00\x01\xBB\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000131",305,Audio [0x3] : Automix Meter [0.1.31],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x01\x31\x00\x00\x00\x00\x00\x00\xBB\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000133",307,Audio [0x3] : Detroit Rack Source Gain [0.1.33],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\x33\x00\x00\x00\x05\x00\x00\xA5\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000133",307,Audio [0x3] : Detroit Rack Source Gain [0.1.33],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\x33\x00\x01\x00\x00\x00\x00\xB9\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000133",307,Audio [0x3] : Detroit Rack Source Gain [0.1.33],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\x33\x00\x01\x00\x00\x00\x01\xB8\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000135",309,Audio [0x3] : Detroit Video Source Gain [0.1.35],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\x35\x00\x00\x00\x05\x00\x00\xA3\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000135",309,Audio [0x3] : Detroit Video Source Gain [0.1.35],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\x35\x00\x01\x00\x00\x00\x00\xBF\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000135",309,Audio [0x3] : Detroit Video Source Gain [0.1.35],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\x35\x00\x01\x00\x00\x00\x01\xBE\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000137",311,Audio [0x3] : Detroit Wall Source Meter [0.1.37],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x01\x37\x00\x00\x00\x00\x00\x00\xBD\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000139",313,Audio [0x3] : Detroit Rack Source Meter [0.1.39],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x01\x39\x00\x00\x00\x00\x00\x00\xB3\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300013B",315,Audio [0x3] : Detroit Video Source Meter [0.1.3B],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x01\x3B\x00\x00\x00\x00\x00\x00\xB1\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300013D",317,Audio [0x3] : Detroit Portable Mixer Gain [0.1.3D],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\x3D\x00\x00\x00\x05\x00\x00\xAB\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300013D",317,Audio [0x3] : Detroit Portable Mixer Gain [0.1.3D],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\x3D\x00\x01\x00\x00\x00\x00\xB7\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300013D",317,Audio [0x3] : Detroit Portable Mixer Gain [0.1.3D],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\x3D\x00\x01\x00\x00\x00\x01\xB6\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300013F",319,Audio [0x3] : Detroit Portable Mixer Meter [0.1.3F],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x01\x3F\x00\x00\x00\x00\x00\x00\xB5\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000141",321,Audio [0x3] : Automix Mic 1 Meter [0.1.41],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x01\x41\x00\x00\x00\x00\x00\x00\xCB\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000142",322,Audio [0x3] : AutoMix Mic 2 Meter [0.1.42],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x01\x42\x00\x00\x00\x00\x00\x00\xC8\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000143",323,Audio [0x3] : Automix Mic 3 Meter [0.1.43],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x01\x43\x00\x00\x00\x00\x00\x00\xC9\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000144",324,Audio [0x3] : Automix Mic 4 Meter [0.1.44],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x01\x44\x00\x00\x00\x00\x00\x00\xCE\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000145",325,Audio [0x3] : Detroit Master Mixer [0.1.45] : Channel 1,Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\x45\x00\x00\x00\x05\x00\x00\xD3\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000145",325,Audio [0x3] : Detroit Master Mixer [0.1.45] : Channel 1,Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\x45\x00\x01\x00\x00\x00\x01\xCE\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000145",325,Audio [0x3] : Detroit Master Mixer [0.1.45] : Channel 1,Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\x45\x00\x01\x00\x00\x00\x00\xCF\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000145",325,Audio [0x3] : Detroit Master Mixer [0.1.45] : Channel 2,Gain [0x64],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\x45\x00\x64\x00\x05\x00\x00\xB7\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000145",325,Audio [0x3] : Detroit Master Mixer [0.1.45] : Channel 2,Mute [0x65],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\x45\x00\x65\x00\x00\x00\x01\xAA\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000145",325,Audio [0x3] : Detroit Master Mixer [0.1.45] : Channel 2,Mute [0x65],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\x45\x00\x65\x00\x00\x00\x00\xAB\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000149",329,Audio [0x3] : Patio Source Selector [0.1.49],Input Number [0x0],Set,1,\x02\x88\x00\x01\x1B\x83\x00\x01\x49\x00\x00\x00\x00\x00\x01\xC3\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000149",329,Audio [0x3] : Patio Source Selector [0.1.49],Input Number [0x0],Set,2,\x02\x88\x00\x01\x1B\x83\x00\x01\x49\x00\x00\x00\x00\x00\x1B\x82\xC0\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300014A",330,Audio [0x3] : Patio Local Gain [0.1.4A],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\x4A\x00\x00\x00\x05\x00\x00\xDC\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300014A",330,Audio [0x3] : Patio Local Gain [0.1.4A],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\x4A\x00\x01\x00\x00\x00\x01\xC1\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300014A",330,Audio [0x3] : Patio Local Gain [0.1.4A],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\x4A\x00\x01\x00\x00\x00\x00\xC0\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300014D",333,Audio [0x3] : Patio Local Meter [0.1.4D],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x01\x4D\x00\x00\x00\x00\x00\x00\xC7\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300014E",334,Audio [0x3] : Patio Facility Gain [0.1.4E],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\x4E\x00\x00\x00\x05\x00\x00\xD8\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300014E",334,Audio [0x3] : Patio Facility Gain [0.1.4E],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\x4E\x00\x01\x00\x00\x00\x01\xC5\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300014E",334,Audio [0x3] : Patio Facility Gain [0.1.4E],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\x4E\x00\x01\x00\x00\x00\x00\xC4\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000151",337,Audio [0x3] : Patio Facility Meter [0.1.51],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x01\x51\x00\x00\x00\x00\x00\x00\xDB\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000152",338,Audio [0x3] : Patio Sub Gain [0.1.52],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\x52\x00\x00\x00\x05\x00\x00\xC4\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000152",338,Audio [0x3] : Patio Sub Gain [0.1.52],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\x52\x00\x01\x00\x00\x00\x01\xD9\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000152",338,Audio [0x3] : Patio Sub Gain [0.1.52],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\x52\x00\x01\x00\x00\x00\x00\xD8\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000156",342,Audio [0x3] : Patio Main Gain [0.1.56],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\x56\x00\x00\x00\x05\x00\x00\xC0\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000156",342,Audio [0x3] : Patio Main Gain [0.1.56],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\x56\x00\x01\x00\x00\x00\x00\xDC\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000156",342,Audio [0x3] : Patio Main Gain [0.1.56],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\x56\x00\x01\x00\x00\x00\x00\xDC\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000159",345,Audio [0x3] : Lansing Source Selector [0.1.59],Input Number [0x0],Set,1,\x02\x88\x00\x01\x1B\x83\x00\x01\x59\x00\x00\x00\x00\x00\x01\xD3\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000159",345,Audio [0x3] : Lansing Source Selector [0.1.59],Input Number [0x0],Set,2,\x02\x88\x00\x01\x1B\x83\x00\x01\x59\x00\x00\x00\x00\x00\x1B\x82\xD0\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000159",345,Audio [0x3] : Lansing Source Selector [0.1.59],Input Number [0x0],Set,3,\x02\x88\x00\x01\x1B\x83\x00\x01\x59\x00\x00\x00\x00\x00\x1B\x83\xD1\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000159",345,Audio [0x3] : Lansing Source Selector [0.1.59],Input Number [0x0],Set,4,\x02\x88\x00\x01\x1B\x83\x00\x01\x59\x00\x00\x00\x00\x00\x04\xD6\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300015A",346,Audio [0x3] : Birmingham Local Gain [0.1.5A],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\x5A\x00\x00\x00\x05\x00\x00\xCC\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300015A",346,Audio [0x3] : Birmingham Local Gain [0.1.5A],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\x5A\x00\x01\x00\x00\x00\x01\xD1\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300015A",346,Audio [0x3] : Birmingham Local Gain [0.1.5A],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\x5A\x00\x01\x00\x00\x00\x00\xD0\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300015D",349,Audio [0x3] : Birmingham Local Meter [0.1.5D],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x01\x5D\x00\x00\x00\x00\x00\x00\xD7\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300015E",350,Audio [0x3] : Birmingham Grand Rapids Gain [0.1.5E],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\x5E\x00\x00\x00\x05\x00\x00\xC8\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300015E",350,Audio [0x3] : Birmingham Grand Rapids Gain [0.1.5E],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\x5E\x00\x01\x00\x00\x00\x01\xD5\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300015E",350,Audio [0x3] : Birmingham Grand Rapids Gain [0.1.5E],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\x5E\x00\x01\x00\x00\x00\x00\xD4\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000161",353,Audio [0x3] : Birmingham Grand Rapids Meter [0.1.61],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x01\x61\x00\x00\x00\x00\x00\x00\xEB\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000165",357,Audio [0x3] : Birmingham Sub Gain [0.1.65],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\x65\x00\x00\x00\x05\x00\x00\xF3\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000165",357,Audio [0x3] : Birmingham Sub Gain [0.1.65],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\x65\x00\x01\x00\x00\x00\x01\xEE\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000165",357,Audio [0x3] : Birmingham Sub Gain [0.1.65],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\x65\x00\x01\x00\x00\x00\x00\xEF\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000166",358,Audio [0x3] : Birmingham Main Gain [0.1.66],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\x66\x00\x00\x00\x05\x00\x00\xF0\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000166",358,Audio [0x3] : Birmingham Main Gain [0.1.66],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\x66\x00\x01\x00\x00\x00\x01\xED\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000166",358,Audio [0x3] : Birmingham Main Gain [0.1.66],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\x66\x00\x01\x00\x00\x00\x00\xEC\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000169",361,Audio [0x3] : Birmingham Ann Arbor Gain [0.1.69],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\x69\x00\x00\x00\x05\x00\x00\xFF\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000169",361,Audio [0x3] : Birmingham Ann Arbor Gain [0.1.69],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\x69\x00\x01\x00\x00\x00\x01\xE2\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000169",361,Audio [0x3] : Birmingham Ann Arbor Gain [0.1.69],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\x69\x00\x01\x00\x00\x00\x00\xE3\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300016C",364,Audio [0x3] : Birmingham Ann Arbor Meter [0.1.6C],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x01\x6C\x00\x00\x00\x00\x00\x00\xE6\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300016D",365,Audio [0x3] : Birmingham Facility Gain [0.1.6D],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\x6D\x00\x00\x00\x05\x00\x00\xFB\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300016D",365,Audio [0x3] : Birmingham Facility Gain [0.1.6D],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\x6D\x00\x01\x00\x00\x00\x01\xE6\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300016D",365,Audio [0x3] : Birmingham Facility Gain [0.1.6D],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\x6D\x00\x01\x00\x00\x00\x00\xE7\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000170",368,Audio [0x3] : Birmingham Facility Meter [0.1.70],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x01\x70\x00\x00\x00\x00\x00\x00\xFA\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000171",369,Audio [0x3] : Grand Rapids Local Gain [0.1.71],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\x71\x00\x00\x00\x05\x00\x00\xE7\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000171",369,Audio [0x3] : Grand Rapids Local Gain [0.1.71],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\x71\x00\x01\x00\x00\x00\x01\xFA\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000171",369,Audio [0x3] : Grand Rapids Local Gain [0.1.71],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\x71\x00\x01\x00\x00\x00\x00\xFB\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000174",372,Audio [0x3] : Gran Rapids Local Meter [0.1.74],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x01\x74\x00\x00\x00\x00\x00\x00\xFE\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000175",373,Audio [0x3] : Grand Rapids Birmingham Gain [0.1.75],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\x75\x00\x00\x00\x05\x00\x00\xE3\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000175",373,Audio [0x3] : Grand Rapids Birmingham Gain [0.1.75],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\x75\x00\x01\x00\x00\x00\x01\xFE\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000175",373,Audio [0x3] : Grand Rapids Birmingham Gain [0.1.75],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\x75\x00\x01\x00\x00\x00\x00\xFF\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000178",376,Audio [0x3] : Grand Rapids Birmingham Meter [0.1.78],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x01\x78\x00\x00\x00\x00\x00\x00\xF2\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300017C",380,Audio [0x3] : Grand Rapids Sub Gain [0.1.7C],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\x7C\x00\x00\x00\x05\x00\x00\xEA\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300017C",380,Audio [0x3] : Grand Rapids Sub Gain [0.1.7C],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\x7C\x00\x01\x00\x00\x00\x01\xF7\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300017C",380,Audio [0x3] : Grand Rapids Sub Gain [0.1.7C],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\x7C\x00\x01\x00\x00\x00\x00\xF6\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300017D",381,Audio [0x3] : Grand Rapids Main Gain [0.1.7D],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\x7D\x00\x00\x00\x05\x00\x00\xEB\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300017D",381,Audio [0x3] : Grand Rapids Main Gain [0.1.7D],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\x7D\x00\x01\x00\x00\x00\x01\xF6\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300017D",381,Audio [0x3] : Grand Rapids Main Gain [0.1.7D],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\x7D\x00\x01\x00\x00\x00\x00\xF7\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000180",384,Audio [0x3] : Grand Rapids Ann Arbor Gain [0.1.80],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\x80\x00\x00\x00\x05\x00\x00\x16\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000180",384,Audio [0x3] : Grand Rapids Ann Arbor Gain [0.1.80],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\x80\x00\x01\x00\x00\x00\x01\x0B\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000180",384,Audio [0x3] : Grand Rapids Ann Arbor Gain [0.1.80],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\x80\x00\x01\x00\x00\x00\x00\x0A\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000183",387,Audio [0x3] : Grand Rapids Ann Arbor Meter [0.1.83],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x01\x83\x00\x00\x00\x00\x00\x00\x09\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000184",388,Audio [0x3] : Grand Rapids Facility Gain [0.1.84],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\x84\x00\x00\x00\x05\x00\x00\x12\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000184",388,Audio [0x3] : Grand Rapids Facility Gain [0.1.84],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\x84\x00\x01\x00\x00\x00\x01\x0F\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000184",388,Audio [0x3] : Grand Rapids Facility Gain [0.1.84],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\x84\x00\x01\x00\x00\x00\x00\x0E\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000187",391,Audio [0x3] : Grand Rapids Facility Meter [0.1.87],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x01\x87\x00\x00\x00\x00\x00\x00\x0D\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000188",392,Audio [0x3] : Ann Arbor Local Gain [0.1.88],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\x88\x00\x00\x00\x05\x00\x00\x1E\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000188",392,Audio [0x3] : Ann Arbor Local Gain [0.1.88],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\x88\x00\x01\x00\x00\x00\x01\x1B\x83\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000188",392,Audio [0x3] : Ann Arbor Local Gain [0.1.88],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\x88\x00\x01\x00\x00\x00\x00\x1B\x82\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300018B",395,Audio [0x3] : Ann Arbor Local Meter [0.1.8B],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x01\x8B\x00\x00\x00\x00\x00\x00\x01\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300018C",396,Audio [0x3] : Ann Arbor Birmingham Gain [0.1.8C],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\x8C\x00\x00\x00\x05\x00\x00\x1A\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300018C",396,Audio [0x3] : Ann Arbor Birmingham Gain [0.1.8C],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\x8C\x00\x01\x00\x00\x00\x01\x07\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300018C",396,Audio [0x3] : Ann Arbor Birmingham Gain [0.1.8C],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\x8C\x00\x01\x00\x00\x00\x00\x1B\x86\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300018F",399,Audio [0x3] : Ann Arbor Birmingham Meter [0.1.8F],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x01\x8F\x00\x00\x00\x00\x00\x00\x05\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000193",403,Audio [0x3] : Ann Arbor Sub Gain [0.1.93],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\x93\x00\x00\x00\x05\x00\x00\x05\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000193",403,Audio [0x3] : Ann Arbor Sub Gain [0.1.93],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\x93\x00\x01\x00\x00\x00\x01\x18\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000193",403,Audio [0x3] : Ann Arbor Sub Gain [0.1.93],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\x93\x00\x01\x00\x00\x00\x00\x19\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000194",404,Audio [0x3] : Ann Arbor Main Gain [0.1.94],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\x94\x00\x00\x00\x05\x00\x00\x1B\x82\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000194",404,Audio [0x3] : Ann Arbor Main Gain [0.1.94],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\x94\x00\x01\x00\x00\x00\x01\x1F\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000194",404,Audio [0x3] : Ann Arbor Main Gain [0.1.94],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\x94\x00\x01\x00\x00\x00\x00\x1E\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000197",407,Audio [0x3] : Ann Arbor Grand Rapids Gain [0.1.97],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\x97\x00\x00\x00\x05\x00\x00\x01\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000197",407,Audio [0x3] : Ann Arbor Grand Rapids Gain [0.1.97],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\x97\x00\x01\x00\x00\x00\x01\x1C\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000197",407,Audio [0x3] : Ann Arbor Grand Rapids Gain [0.1.97],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\x97\x00\x01\x00\x00\x00\x00\x1D\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300019A",410,Audio [0x3] : Ann Arbor Grand Rapids Meter [0.1.9A],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x01\x9A\x00\x00\x00\x00\x00\x00\x10\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300019B",411,Audio [0x3] : Ann Arbor Facility Gain [0.1.9B],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\x9B\x00\x00\x00\x05\x00\x00\x0D\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300019B",411,Audio [0x3] : Ann Arbor Facility Gain [0.1.9B],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\x9B\x00\x01\x00\x00\x00\x01\x10\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300019B",411,Audio [0x3] : Ann Arbor Facility Gain [0.1.9B],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\x9B\x00\x01\x00\x00\x00\x00\x11\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300019E",414,Audio [0x3] : Ann Arbor Facility Meter [0.1.9E],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x01\x9E\x00\x00\x00\x00\x00\x00\x14\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300019F",415,Audio [0x3] : Lansing Local Gain [0.1.9F],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\x9F\x00\x00\x00\x05\x00\x00\x09\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300019F",415,Audio [0x3] : Lansing Local Gain [0.1.9F],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\x9F\x00\x01\x00\x00\x00\x01\x14\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300019F",415,Audio [0x3] : Lansing Local Gain [0.1.9F],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\x9F\x00\x01\x00\x00\x00\x00\x1B\x95\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001A2",418,Audio [0x3] : Lansing Local Meter [0.1.A2],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x01\xA2\x00\x00\x00\x00\x00\x00\x28\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001A3",419,Audio [0x3] : Lansing Birmingham Gain [0.1.A3],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\xA3\x00\x00\x00\x05\x00\x00\x35\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001A3",419,Audio [0x3] : Lansing Birmingham Gain [0.1.A3],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\xA3\x00\x01\x00\x00\x00\x01\x28\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001A3",419,Audio [0x3] : Lansing Birmingham Gain [0.1.A3],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\xA3\x00\x01\x00\x00\x00\x00\x29\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001A6",422,Audio [0x3] : Lansing Birmingham Meter [0.1.A6],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x01\xA6\x00\x00\x00\x00\x00\x00\x2C\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001AA",426,Audio [0x3] : Lansing Sub Gain [0.1.AA],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\xAA\x00\x00\x00\x05\x00\x00\x3C\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001AA",426,Audio [0x3] : Lansing Sub Gain [0.1.AA],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\xAA\x00\x01\x00\x00\x00\x01\x21\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001AA",426,Audio [0x3] : Lansing Sub Gain [0.1.AA],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\xAA\x00\x01\x00\x00\x00\x00\x20\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001AB",427,Audio [0x3] : Lansing Main Gain [0.1.AB],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\xAB\x00\x00\x00\x05\x00\x00\x3D\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001AB",427,Audio [0x3] : Lansing Main Gain [0.1.AB],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\xAB\x00\x01\x00\x00\x00\x01\x20\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001AB",427,Audio [0x3] : Lansing Main Gain [0.1.AB],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\xAB\x00\x01\x00\x00\x00\x00\x21\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001AE",430,Audio [0x3] : Saginaw Source Selector [0.1.AE],Input Number [0x0],Set,1,\x02\x88\x00\x01\x1B\x83\x00\x01\xAE\x00\x00\x00\x00\x00\x01\x24\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001AE",430,Audio [0x3] : Saginaw Source Selector [0.1.AE],Input Number [0x0],Set,2,\x02\x88\x00\x01\x1B\x83\x00\x01\xAE\x00\x00\x00\x00\x00\x1B\x82\x27\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001AE",430,Audio [0x3] : Saginaw Source Selector [0.1.AE],Input Number [0x0],Set,3,\x02\x88\x00\x01\x1B\x83\x00\x01\xAE\x00\x00\x00\x00\x00\x1B\x83\x26\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001AE",430,Audio [0x3] : Saginaw Source Selector [0.1.AE],Input Number [0x0],Set,4,\x02\x88\x00\x01\x1B\x83\x00\x01\xAE\x00\x00\x00\x00\x00\x04\x21\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001AF",431,Audio [0x3] : Saginaw Local Gain [0.1.AF],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\xAF\x00\x00\x00\x05\x00\x00\x39\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001AF",431,Audio [0x3] : Saginaw Local Gain [0.1.AF],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\xAF\x00\x01\x00\x00\x00\x01\x24\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001AF",431,Audio [0x3] : Saginaw Local Gain [0.1.AF],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\xAF\x00\x01\x00\x00\x00\x00\x25\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001B2",434,Audio [0x3] : Saginaw Local Meter [0.1.B2],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x01\xB2\x00\x00\x00\x00\x00\x00\x38\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001B3",435,Audio [0x3] : Saginaw Petoskey Gain [0.1.B3],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\xB3\x00\x00\x00\x05\x00\x00\x25\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001B3",435,Audio [0x3] : Saginaw Petoskey Gain [0.1.B3],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\xB3\x00\x01\x00\x00\x00\x01\x38\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001B3",435,Audio [0x3] : Saginaw Petoskey Gain [0.1.B3],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\xB3\x00\x01\x00\x00\x00\x00\x39\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001B6",438,Audio [0x3] : Saginaw Petoskey Meter [0.1.B6],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x01\xB6\x00\x00\x00\x00\x00\x00\x3C\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001BA",442,Audio [0x3] : Saginaw Sub Gain [0.1.BA],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\xBA\x00\x00\x00\x05\x00\x00\x2C\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001BA",442,Audio [0x3] : Saginaw Sub Gain [0.1.BA],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\xBA\x00\x01\x00\x00\x00\x01\x31\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001BA",442,Audio [0x3] : Saginaw Sub Gain [0.1.BA],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\xBA\x00\x01\x00\x00\x00\x00\x30\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001BE",446,Audio [0x3] : Saginaw Dearborn Gain [0.1.BE],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\xBE\x00\x00\x00\x05\x00\x00\x28\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001BE",446,Audio [0x3] : Saginaw Dearborn Gain [0.1.BE],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\xBE\x00\x01\x00\x00\x00\x01\x35\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001BE",446,Audio [0x3] : Saginaw Dearborn Gain [0.1.BE],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\xBE\x00\x01\x00\x00\x00\x00\x34\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001C1",449,Audio [0x3] : Saginaw Dearborn Meter [0.1.C1],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x01\xC1\x00\x00\x00\x00\x00\x00\x4B\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001C2",450,Audio [0x3] : Saginaw Facility Gain [0.1.C2],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\xC2\x00\x00\x00\x05\x00\x00\x54\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001C2",450,Audio [0x3] : Saginaw Facility Gain [0.1.C2],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\xC2\x00\x01\x00\x00\x00\x01\x49\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001C2",450,Audio [0x3] : Saginaw Facility Gain [0.1.C2],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\xC2\x00\x01\x00\x00\x00\x00\x48\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001C5",453,Audio [0x3] : Saginaw Facility Meter [0.1.C5],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x01\xC5\x00\x00\x00\x00\x00\x00\x4F\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001C6",454,Audio [0x3] : Saginaw Main Gain [0.1.C6],Master [0x60],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\xC6\x00\x60\x00\x05\x00\x00\x30\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001C6",454,Audio [0x3] : Saginaw Main Gain [0.1.C6],Override Mute [0x61],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\xC6\x00\x61\x00\x00\x00\x01\x2D\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001C6",454,Audio [0x3] : Saginaw Main Gain [0.1.C6],Override Mute [0x61],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\xC6\x00\x61\x00\x00\x00\x00\x2C\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001C8",456,Audio [0x3] : Petoskey Source Selector [0.1.C8],Input Number [0x0],Set,1,\x02\x88\x00\x01\x1B\x83\x00\x01\xC8\x00\x00\x00\x00\x00\x01\x42\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001C8",456,Audio [0x3] : Petoskey Source Selector [0.1.C8],Input Number [0x0],Set,2,\x02\x88\x00\x01\x1B\x83\x00\x01\xC8\x00\x00\x00\x00\x00\x1B\x82\x41\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001C8",456,Audio [0x3] : Petoskey Source Selector [0.1.C8],Input Number [0x0],Set,3,\x02\x88\x00\x01\x1B\x83\x00\x01\xC8\x00\x00\x00\x00\x00\x1B\x83\x40\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001C8",456,Audio [0x3] : Petoskey Source Selector [0.1.C8],Input Number [0x0],Set,4,\x02\x88\x00\x01\x1B\x83\x00\x01\xC8\x00\x00\x00\x00\x00\x04\x47\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001C9",457,Audio [0x3] : Petoskey Local Gain [0.1.C9],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\xC9\x00\x00\x00\x05\x00\x00\x5F\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001C9",457,Audio [0x3] : Petoskey Local Gain [0.1.C9],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\xC9\x00\x01\x00\x00\x00\x01\x42\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001C9",457,Audio [0x3] : Petoskey Local Gain [0.1.C9],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\xC9\x00\x01\x00\x00\x00\x00\x43\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001CC",460,Audio [0x3] : Petoskey Local Meter [0.1.CC],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x01\xCC\x00\x00\x00\x00\x00\x00\x46\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001CD",461,Audio [0x3] : Petoskey Saginaw Gain [0.1.CD],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\xCD\x00\x00\x00\x05\x00\x00\x5B\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001CD",461,Audio [0x3] : Petoskey Saginaw Gain [0.1.CD],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\xCD\x00\x01\x00\x00\x00\x01\x46\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001CD",461,Audio [0x3] : Petoskey Saginaw Gain [0.1.CD],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\xCD\x00\x01\x00\x00\x00\x00\x47\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001D0",464,Audio [0x3] : Petoskey Saginaw Meter [0.1.D0],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x01\xD0\x00\x00\x00\x00\x00\x00\x5A\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001D4",468,Audio [0x3] : Petoskey Sub Gain [0.1.D4],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\xD4\x00\x00\x00\x05\x00\x00\x42\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001D4",468,Audio [0x3] : Petoskey Sub Gain [0.1.D4],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\xD4\x00\x01\x00\x00\x00\x01\x5F\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001D4",468,Audio [0x3] : Petoskey Sub Gain [0.1.D4],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\xD4\x00\x01\x00\x00\x00\x00\x5E\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001D7",471,Audio [0x3] : Petoskey Dearborn Gain [0.1.D7],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\xD7\x00\x00\x00\x05\x00\x00\x41\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001D7",471,Audio [0x3] : Petoskey Dearborn Gain [0.1.D7],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\xD7\x00\x01\x00\x00\x00\x00\x5D\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001D7",471,Audio [0x3] : Petoskey Dearborn Gain [0.1.D7],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\xD7\x00\x01\x00\x00\x00\x00\x5D\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001DA",474,Audio [0x3] : Petoskey Dearborn Meter [0.1.DA],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x01\xDA\x00\x00\x00\x00\x00\x00\x50\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001DB",475,Audio [0x3] : Petoskey Facility Gain [0.1.DB],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\xDB\x00\x00\x00\x05\x00\x00\x4D\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001DB",475,Audio [0x3] : Petoskey Facility Gain [0.1.DB],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\xDB\x00\x01\x00\x00\x00\x01\x50\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001DB",475,Audio [0x3] : Petoskey Facility Gain [0.1.DB],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\xDB\x00\x01\x00\x00\x00\x00\x51\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001DE",478,Audio [0x3] : Petoskey Facility Meter [0.1.DE],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x01\xDE\x00\x00\x00\x00\x00\x00\x54\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001DF",479,Audio [0x3] : Petoskey Main Gain [0.1.DF],Master [0x60],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\xDF\x00\x60\x00\x05\x00\x00\x29\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001DF",479,Audio [0x3] : Petoskey Main Gain [0.1.DF],Override Mute [0x61],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\xDF\x00\x61\x00\x00\x00\x01\x34\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001DF",479,Audio [0x3] : Petoskey Main Gain [0.1.DF],Override Mute [0x61],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\xDF\x00\x61\x00\x00\x00\x00\x35\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001E2",482,Audio [0x3] : Dearborn Source Selector [0.1.E2],Input Number [0x0],Set,1,\x02\x88\x00\x01\x1B\x83\x00\x01\xE2\x00\x00\x00\x00\x00\x01\x68\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001E2",482,Audio [0x3] : Dearborn Source Selector [0.1.E2],Input Number [0x0],Set,2,\x02\x88\x00\x01\x1B\x83\x00\x01\xE2\x00\x00\x00\x00\x00\x1B\x82\x6B\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001E2",482,Audio [0x3] : Dearborn Source Selector [0.1.E2],Input Number [0x0],Set,3,\x02\x88\x00\x01\x1B\x83\x00\x01\xE2\x00\x00\x00\x00\x00\x1B\x83\x6A\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001E2",482,Audio [0x3] : Dearborn Source Selector [0.1.E2],Input Number [0x0],Set,4,\x02\x88\x00\x01\x1B\x83\x00\x01\xE2\x00\x00\x00\x00\x00\x04\x6D\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001E3",483,Audio [0x3] : Dearborn Local Gain [0.1.E3],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\xE3\x00\x00\x00\x05\x00\x00\x75\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001E3",483,Audio [0x3] : Dearborn Local Gain [0.1.E3],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\xE3\x00\x01\x00\x00\x00\x01\x68\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001E3",483,Audio [0x3] : Dearborn Local Gain [0.1.E3],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\xE3\x00\x01\x00\x00\x00\x00\x69\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001E6",486,Audio [0x3] : Dearborn Local Meter [0.1.E6],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x01\xE6\x00\x00\x00\x00\x00\x00\x6C\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001E7",487,Audio [0x3] : Dearborn Saginaw Gain [0.1.E7],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\xE7\x00\x00\x00\x05\x00\x00\x71\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001E7",487,Audio [0x3] : Dearborn Saginaw Gain [0.1.E7],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\xE7\x00\x01\x00\x00\x00\x01\x6C\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001E7",487,Audio [0x3] : Dearborn Saginaw Gain [0.1.E7],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\xE7\x00\x01\x00\x00\x00\x00\x6D\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001EA",490,Audio [0x3] : Dearborn Saginaw Meter [0.1.EA],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x01\xEA\x00\x00\x00\x00\x00\x00\x60\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001EE",494,Audio [0x3] : Dearborn Sub Gain [0.1.EE],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\xEE\x00\x00\x00\x05\x00\x00\x78\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001EE",494,Audio [0x3] : Dearborn Sub Gain [0.1.EE],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\xEE\x00\x01\x00\x00\x00\x01\x65\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001EE",494,Audio [0x3] : Dearborn Sub Gain [0.1.EE],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\xEE\x00\x01\x00\x00\x00\x00\x64\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001F1",497,Audio [0x3] : Dearborn Petoskey Gain [0.1.F1],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\xF1\x00\x00\x00\x05\x00\x00\x67\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001F1",497,Audio [0x3] : Dearborn Petoskey Gain [0.1.F1],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\xF1\x00\x01\x00\x00\x00\x01\x7A\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001F1",497,Audio [0x3] : Dearborn Petoskey Gain [0.1.F1],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\xF1\x00\x01\x00\x00\x00\x00\x7B\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001F4",500,Audio [0x3] : Dearborn Petoskey Meter [0.1.F4],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x01\xF4\x00\x00\x00\x00\x00\x00\x7E\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001F5",501,Audio [0x3] : Dearborn Facility Gain [0.1.F5],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\xF5\x00\x00\x00\x05\x00\x00\x63\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001F5",501,Audio [0x3] : Dearborn Facility Gain [0.1.F5],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\xF5\x00\x01\x00\x00\x00\x01\x7E\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001F5",501,Audio [0x3] : Dearborn Facility Gain [0.1.F5],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\xF5\x00\x01\x00\x00\x00\x00\x7F\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001F8",504,Audio [0x3] : Dearborn Facility Meter [0.1.F8],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x01\xF8\x00\x00\x00\x00\x00\x00\x72\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001F9",505,Audio [0x3] : Dearborn Main Gain [0.1.F9],Master [0x60],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\xF9\x00\x60\x00\x05\x00\x00\x0F\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001F9",505,Audio [0x3] : Dearborn Main Gain [0.1.F9],Override Mute [0x61],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x01\xF9\x00\x61\x00\x00\x00\x01\x12\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001F9",505,Audio [0x3] : Dearborn Main Gain [0.1.F9],Override Mute [0x61],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x01\xF9\x00\x61\x00\x00\x00\x00\x13\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="030001FE",510,Audio [0x3] : L/R PA Gain [0.1.FE],Master [0x60],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x01\xFE\x00\x60\x00\x05\x00\x00\x08\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000203",515,Audio [0x3] : HLC Sub Meter [0.2.3],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x1B\x82\x1B\x83\x00\x00\x00\x00\x00\x00\x8A\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000204",516,Audio [0x3] : HRC Sub Meter [0.2.4],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x1B\x82\x04\x00\x00\x00\x00\x00\x00\x8D\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000209",521,Audio [0x3] : Delays Gain [0.2.9],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x1B\x82\x09\x00\x00\x00\x05\x00\x00\x9C\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000209",521,Audio [0x3] : Delays Gain [0.2.9],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x1B\x82\x09\x00\x01\x00\x00\x00\x01\x81\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000209",521,Audio [0x3] : Delays Gain [0.2.9],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x1B\x82\x09\x00\x01\x00\x00\x00\x00\x80\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300020B",523,Audio [0x3] : HLC Sub Gain [0.2.B],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x1B\x82\x0B\x00\x00\x00\x05\x00\x00\x9E\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300020B",523,Audio [0x3] : HLC Sub Gain [0.2.B],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x1B\x82\x0B\x00\x01\x00\x00\x00\x01\x83\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300020B",523,Audio [0x3] : HLC Sub Gain [0.2.B],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x1B\x82\x0B\x00\x01\x00\x00\x00\x00\x82\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300020C",524,Audio [0x3] : Delays Meter [0.2.C],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x1B\x82\x0C\x00\x00\x00\x00\x00\x00\x85\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000210",528,Audio [0x3] : Center LR PA Gain [0.2.10],Master [0x60],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x1B\x82\x10\x00\x60\x00\x05\x00\x00\xE5\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000210",528,Audio [0x3] : Center LR PA Gain [0.2.10],Override Mute [0x61],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x1B\x82\x10\x00\x61\x00\x00\x00\x01\xF8\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000210",528,Audio [0x3] : Center LR PA Gain [0.2.10],Override Mute [0x61],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x1B\x82\x10\x00\x61\x00\x00\x00\x00\xF9\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000212",530,Audio [0x3] : Detroit Audio Meter [0.2.12],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x1B\x82\x12\x00\x00\x00\x00\x00\x00\x9B\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000212",530,Audio [0x3] : Detroit Audio Meter [0.2.12],Attack [0x1],Set,10us,\x02\x88\x00\x01\x1B\x83\x00\x1B\x82\x12\x00\x01\xFF\xE1\x7B\x80\x7E\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000212",530,Audio [0x3] : Detroit Audio Meter [0.2.12],Release [0x2],Set,50ms,\x02\x88\x00\x01\x1B\x83\x00\x1B\x82\x12\x00\x1B\x82\x00\x19\xEC\x9A\xF7\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000212",530,Audio [0x3] : Detroit Audio Meter [0.2.12],Reference [0x3],Set,0dB,\x02\x88\x00\x01\x1B\x83\x00\x1B\x82\x12\x00\x1B\x83\x00\x00\x00\x00\x99\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000220",544,Audio [0x3] : Automix Mic 5 Meter [0.2.20],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x1B\x82\x20\x00\x00\x00\x00\x00\x00\xA9\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000220",544,Audio [0x3] : Automix Mic 5 Meter [0.2.20],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x1B\x82\x20\x00\x00\x00\x00\x00\x00\xA9\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000221",545,Audio [0x3] : Automix Mic 6 Meter [0.2.21],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x1B\x82\x21\x00\x00\x00\x00\x00\x00\xA8\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000221",545,Audio [0x3] : Automix Mic 6 Meter [0.2.21],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x1B\x82\x21\x00\x00\x00\x00\x00\x00\xA8\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000222",546,Audio [0x3] : Automix Mic 7 Meter [0.2.22],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x1B\x82\x22\x00\x00\x00\x00\x00\x00\xAB\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000222",546,Audio [0x3] : Automix Mic 7 Meter [0.2.22],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x1B\x82\x22\x00\x00\x00\x00\x00\x00\xAB\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000223",547,Audio [0x3] : Automix Mic 8 Meter [0.2.23],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x1B\x82\x23\x00\x00\x00\x00\x00\x00\xAA\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000223",547,Audio [0x3] : Automix Mic 8 Meter [0.2.23],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x1B\x82\x23\x00\x00\x00\x00\x00\x00\xAA\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000224",548,Audio [0x3] : Record Out 1 Gain [0.2.24],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x1B\x82\x24\x00\x00\x00\x05\x00\x00\xB1\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000224",548,Audio [0x3] : Record Out 1 Gain [0.2.24],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x1B\x82\x24\x00\x01\x00\x00\x00\x01\xAC\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000224",548,Audio [0x3] : Record Out 1 Gain [0.2.24],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x1B\x82\x24\x00\x01\x00\x00\x00\x00\xAD\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000225",549,Audio [0x3] : Record Out 2 Gain [0.2.25],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x1B\x82\x25\x00\x00\x00\x05\x00\x00\xB0\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000225",549,Audio [0x3] : Record Out 2 Gain [0.2.25],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x1B\x82\x25\x00\x01\x00\x00\x00\x01\xAD\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000225",549,Audio [0x3] : Record Out 2 Gain [0.2.25],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x1B\x82\x25\x00\x01\x00\x00\x00\x00\xAC\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000226",550,Audio [0x3] : Record Out 3 Gain [0.2.26],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x1B\x82\x26\x00\x00\x00\x05\x00\x00\xB3\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000226",550,Audio [0x3] : Record Out 3 Gain [0.2.26],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x1B\x82\x26\x00\x01\x00\x00\x00\x01\xAE\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000226",550,Audio [0x3] : Record Out 3 Gain [0.2.26],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x1B\x82\x26\x00\x01\x00\x00\x00\x00\xAF\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000227",551,Audio [0x3] : Record Out 4 Gain [0.2.27],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x1B\x82\x27\x00\x00\x00\x05\x00\x00\xB2\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000227",551,Audio [0x3] : Record Out 4 Gain [0.2.27],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x1B\x82\x27\x00\x01\x00\x00\x00\x01\xAF\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000227",551,Audio [0x3] : Record Out 4 Gain [0.2.27],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x1B\x82\x27\x00\x01\x00\x00\x00\x00\xAE\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000228",552,Audio [0x3] : Record Out 5 Gain [0.2.28],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x1B\x82\x28\x00\x00\x00\x05\x00\x00\xBD\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000228",552,Audio [0x3] : Record Out 5 Gain [0.2.28],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x1B\x82\x28\x00\x01\x00\x00\x00\x01\xA0\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000228",552,Audio [0x3] : Record Out 5 Gain [0.2.28],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x1B\x82\x28\x00\x01\x00\x00\x00\x00\xA1\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000229",553,Audio [0x3] : Record Out 6 Gain [0.2.29],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x1B\x82\x29\x00\x00\x00\x05\x00\x00\xBC\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000229",553,Audio [0x3] : Record Out 6 Gain [0.2.29],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x1B\x82\x29\x00\x01\x00\x00\x00\x01\xA1\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000229",553,Audio [0x3] : Record Out 6 Gain [0.2.29],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x1B\x82\x29\x00\x01\x00\x00\x00\x00\xA0\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300022A",554,Audio [0x3] : Record Out 7 Gain [0.2.2A],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x1B\x82\x2A\x00\x00\x00\x05\x00\x00\xBF\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300022A",554,Audio [0x3] : Record Out 7 Gain [0.2.2A],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x1B\x82\x2A\x00\x01\x00\x00\x00\x01\xA2\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300022A",554,Audio [0x3] : Record Out 7 Gain [0.2.2A],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x1B\x82\x2A\x00\x01\x00\x00\x00\x00\xA3\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300022B",555,Audio [0x3] : Record Out 8 Gain [0.2.2B],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x1B\x82\x2B\x00\x00\x00\x05\x00\x00\xBE\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300022B",555,Audio [0x3] : Record Out 8 Gain [0.2.2B],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x1B\x82\x2B\x00\x01\x00\x00\x00\x01\xA3\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300022B",555,Audio [0x3] : Record Out 8 Gain [0.2.2B],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x1B\x82\x2B\x00\x01\x00\x00\x00\x00\xA2\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000234",564,Audio [0x3] : L PA Meter [0.2.34],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x1B\x82\x34\x00\x00\x00\x00\x00\x00\xBD\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000235",565,Audio [0x3] : R PA Meter [0.2.35],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x1B\x82\x35\x00\x00\x00\x00\x00\x00\xBC\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000236",566,Audio [0x3] : LC PA Meter [0.2.36],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x1B\x82\x36\x00\x00\x00\x00\x00\x00\xBF\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000237",567,Audio [0x3] : RC PA Meter [0.2.37],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x1B\x82\x37\x00\x00\x00\x00\x00\x00\xBE\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000239",569,Audio [0x3] : HRC Sub Gain [0.2.39],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x1B\x82\x39\x00\x00\x00\x05\x00\x00\xAC\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000239",569,Audio [0x3] : HRC Sub Gain [0.2.39],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x1B\x82\x39\x00\x01\x00\x00\x00\x01\xB1\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000239",569,Audio [0x3] : HRC Sub Gain [0.2.39],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x1B\x82\x39\x00\x01\x00\x00\x00\x00\xB0\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300023A",570,Audio [0x3] : Patio Sub Meter [0.2.3A],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x1B\x82\x3A\x00\x00\x00\x00\x00\x00\xB3\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300023B",571,Audio [0x3] : Patio Main Meter [0.2.3B],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x1B\x82\x3B\x00\x00\x00\x00\x00\x00\xB2\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300023C",572,Audio [0x3] : Birmignham Sub Meter [0.2.3C],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x1B\x82\x3C\x00\x00\x00\x00\x00\x00\xB5\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300023D",573,Audio [0x3] : Birmingham Main Meter [0.2.3D],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x1B\x82\x3D\x00\x00\x00\x00\x00\x00\xB4\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300023E",574,Audio [0x3] : Grand Rapids Sub Meter [0.2.3E],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x1B\x82\x3E\x00\x00\x00\x00\x00\x00\xB7\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300023F",575,Audio [0x3] : Grand Rapids Main Meter [0.2.3F],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x1B\x82\x3F\x00\x00\x00\x00\x00\x00\xB6\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000240",576,Audio [0x3] : Ann Arbor Sub Meter [0.2.40],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x1B\x82\x40\x00\x00\x00\x00\x00\x00\xC9\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000241",577,Audio [0x3] : Ann Arbor Main Meter [0.2.41],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x1B\x82\x41\x00\x00\x00\x00\x00\x00\xC8\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000242",578,Audio [0x3] : Lansing Sub Meter [0.2.42],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x1B\x82\x42\x00\x00\x00\x00\x00\x00\xCB\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000243",579,Audio [0x3] : Lansing Main Meter [0.2.43],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x1B\x82\x43\x00\x00\x00\x00\x00\x00\xCA\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000244",580,Audio [0x3] : Saginaw Sub Meter [0.2.44],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x1B\x82\x44\x00\x00\x00\x00\x00\x00\xCD\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000245",581,Audio [0x3] : Saginaw L Main Meter [0.2.45],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x1B\x82\x45\x00\x00\x00\x00\x00\x00\xCC\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000246",582,Audio [0x3] : Saginaw R Main Meter [0.2.46],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x1B\x82\x46\x00\x00\x00\x00\x00\x00\xCF\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000247",583,Audio [0x3] : Petoskey Sub Meter [0.2.47],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x1B\x82\x47\x00\x00\x00\x00\x00\x00\xCE\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000248",584,Audio [0x3] : Petoskey L Main Meter [0.2.48],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x1B\x82\x48\x00\x00\x00\x00\x00\x00\xC1\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000249",585,Audio [0x3] : Petoskey R Main Meter [0.2.49],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x1B\x82\x49\x00\x00\x00\x00\x00\x00\xC0\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300024A",586,Audio [0x3] : Dearborn Sub Meter [0.2.4A],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x1B\x82\x4A\x00\x00\x00\x00\x00\x00\xC3\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300024B",587,Audio [0x3] : Dearborn L Main Meter [0.2.4B],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x1B\x82\x4B\x00\x00\x00\x00\x00\x00\xC2\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300024C",588,Audio [0x3] : Dearborn R Main Meter [0.2.4C],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x1B\x82\x4C\x00\x00\x00\x00\x00\x00\xC5\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000250",592,Audio [0x3] : WRLS Mic 1 Meter [0.2.50],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x1B\x82\x50\x00\x00\x00\x00\x00\x00\xD9\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000252",594,Audio [0x3] : Lansing Ann Arbor Gain [0.2.52],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x1B\x82\x52\x00\x00\x00\x05\x00\x00\xC7\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000252",594,Audio [0x3] : Lansing Ann Arbor Gain [0.2.52],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x1B\x82\x52\x00\x01\x00\x00\x00\x01\xDA\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000252",594,Audio [0x3] : Lansing Ann Arbor Gain [0.2.52],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x1B\x82\x52\x00\x01\x00\x00\x00\x00\xDB\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000255",597,Audio [0x3] : Lansing Ann Arbor Meter [0.2.55],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x1B\x82\x55\x00\x00\x00\x00\x00\x00\xDC\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000256",598,Audio [0x3] : Lansing Facility Gain [0.2.56],Gain [0x0],Bump %,5%,\x02\x90\x00\x01\x1B\x83\x00\x1B\x82\x56\x00\x00\x00\x05\x00\x00\xC3\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000256",598,Audio [0x3] : Lansing Facility Gain [0.2.56],Mute [0x1],Set,Muted,\x02\x88\x00\x01\x1B\x83\x00\x1B\x82\x56\x00\x01\x00\x00\x00\x01\xDE\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000256",598,Audio [0x3] : Lansing Facility Gain [0.2.56],Mute [0x1],Set,Unmuted,\x02\x88\x00\x01\x1B\x83\x00\x1B\x82\x56\x00\x01\x00\x00\x00\x00\xDF\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000259",601,Audio [0x3] : Lansing Facility Meter [0.2.59],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x1B\x82\x59\x00\x00\x00\x00\x00\x00\xD0\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="0300025D",605,Audio [0x3] : WRLS Mic 2 Meter [0.2.5D],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x1B\x82\x5D\x00\x00\x00\x00\x00\x00\xD4\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000261",609,Audio [0x3] : WRLS Mic 3 Meter [0.2.61],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x1B\x82\x61\x00\x00\x00\x00\x00\x00\xE8\x03
+Detroit Ballroom : BLU-806DA-1,BLU-806DA-1,="0001",1,="03000265",613,Audio [0x3] : WRLS Mic 4 Meter [0.2.65],Meter [0x0],Subscribe,0ms,\x02\x89\x00\x01\x1B\x83\x00\x1B\x82\x65\x00\x00\x00\x00\x00\x00\xEC\x03
+
+Parameter Presets
+Preset Group,Preset,Command
+Grand Rapids Source Select,Preset 1,\x02\x8C\x00\x00\x00\x00\x8C\x03
+Grand Rapids Source Select,Preset 2,\x02\x8C\x00\x00\x00\x01\x8D\x03
+Grand Rapids Source Select,Preset 3,\x02\x8C\x00\x00\x00\x1B\x82\x8E\x03
+Grand Rapids Source Select,Preset 4,\x02\x8C\x00\x00\x00\x1B\x83\x8F\x03
+Birmingham Source Select,Preset 1,\x02\x8C\x00\x00\x00\x04\x88\x03
+Birmingham Source Select,Preset 2,\x02\x8C\x00\x00\x00\x05\x89\x03
+Birmingham Source Select,Preset 3,\x02\x8C\x00\x00\x00\x1B\x86\x8A\x03
+Birmingham Source Select,Preset 4,\x02\x8C\x00\x00\x00\x07\x8B\x03
+Ann Arbor Source Select,Preset 1,\x02\x8C\x00\x00\x00\x08\x84\x03
+Ann Arbor Source Select,Preset 2,\x02\x8C\x00\x00\x00\x09\x85\x03
+Ann Arbor Source Select,Preset 3,\x02\x8C\x00\x00\x00\x0A\x86\x03
+Ann Arbor Source Select,Preset 4,\x02\x8C\x00\x00\x00\x0B\x87\x03
+Lansing Source Select,Preset 1,\x02\x8C\x00\x00\x00\x0C\x80\x03
+Lansing Source Select,Preset 2,\x02\x8C\x00\x00\x00\x0D\x81\x03
+Lansing Source Select,Preset 3,\x02\x8C\x00\x00\x00\x1C\x90\x03
+Lansing Source Select,Preset 4,\x02\x8C\x00\x00\x00\x1D\x91\x03
+Saginaw Source Select,Preset 1,\x02\x8C\x00\x00\x00\x0E\x82\x03
+Saginaw Source Select,Preset 2,\x02\x8C\x00\x00\x00\x0F\x83\x03
+Saginaw Source Select,Preset 3,\x02\x8C\x00\x00\x00\x10\x9C\x03
+Saginaw Source Select,Preset 4,\x02\x8C\x00\x00\x00\x11\x9D\x03
+Petoskey Source Selector,Preset 1,\x02\x8C\x00\x00\x00\x12\x9E\x03
+Petoskey Source Selector,Preset 2,\x02\x8C\x00\x00\x00\x13\x9F\x03
+Petoskey Source Selector,Preset 3,\x02\x8C\x00\x00\x00\x14\x98\x03
+Petoskey Source Selector,Preset 4,\x02\x8C\x00\x00\x00\x1B\x95\x99\x03
+Dearborn Source Select,Preset 1,\x02\x8C\x00\x00\x00\x16\x9A\x03
+Dearborn Source Select,Preset 2,\x02\x8C\x00\x00\x00\x17\x9B\x03
+Dearborn Source Select,Preset 3,\x02\x8C\x00\x00\x00\x18\x94\x03
+Dearborn Source Select,Preset 4,\x02\x8C\x00\x00\x00\x19\x95\x03
+Patio Source Select,Preset 1,\x02\x8C\x00\x00\x00\x1A\x96\x03
+Patio Source Select,Preset 2,\x02\x8C\x00\x00\x00\x1B\x9B\x97\x03
